@@ -36,6 +36,9 @@ Used these commands ,
 
 11. Verified the app is running in browser on port 3000
 
+12. Verified the logs using the below command
 
+docker logs 0bdb59ac713e
+Magic happens on port 3000
 
  

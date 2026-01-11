@@ -35,4 +35,4 @@ Verified the pods in K9s
 
 entered "S" key after selecting the pod to enter shell of that pod.
 
- 
+Able to view the ip of the pod (10.244.0.6)
